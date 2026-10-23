@@ -1,0 +1,5 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "CoolerVacunas_RevD5") (type "Legacy") (uri "${KIPRJMOD}/CoolerVacunas_RevD5-cache.lib") (options "") (descr "Symbols CoolerVacunas RevD3"))
+	(lib (name "CoolerVacunas_RevD5-cache") (type "Legacy") (uri "C:/Users/tomas/Downloads/CoolerVacunas_RevD5_Limpia_KiCad10/CoolerVacunas_RevD5_Limpia/CoolerVacunas_RevD5-cache.lib") (options "") (descr "Biblioteca de caché de proyecto heredado"))
+)
